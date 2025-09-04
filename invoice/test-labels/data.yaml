@@ -1,0 +1,5 @@
+names:
+- test
+nc: 1
+train: /home/pwn/work/ifgl/invoice/test-labels/train/images
+val: /home/pwn/work/ifgl/invoice/test-labels/valid/images
